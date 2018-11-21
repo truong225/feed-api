@@ -1,0 +1,21 @@
+{
+  "connection": "default",
+  "collectionName": "account",
+  "info": {
+    "name": "account",
+    "description": ""
+  },
+  "options": {
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "default": "",
+      "type": "string"
+    },
+    "age": {
+      "default": "",
+      "type": "integer"
+    }
+  }
+}
